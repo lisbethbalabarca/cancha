@@ -1,0 +1,61 @@
+
+div{
+	height: 400px;
+	width: 1000px;
+
+}
+.cancha{
+	position: relative;
+}
+.raya{
+	height: 380px;
+	width: 980px;
+	position: absolute;
+	border: white 1px solid;
+	left: 10px;
+	top: 1%;
+}
+.uno{
+	border: white 1px solid;
+	position: absolute;
+	height: 200px;
+	width: 100px;
+	top:25%;
+	float: left;
+
+}
+.dos{
+	border: white 1px solid;
+	position: absolute;
+	height: 200px;
+	width: 100px;
+	top:25%;
+	left: 879px;
+}
+.circulo{
+	border: white 1px solid;
+	position: absolute;
+	height: 200px;
+	width: 200px;
+	top:25%;
+	left: 400px;
+	border-radius: 1000px;
+}
+.bola{
+	height: 20px;
+	width: 20px;
+	border: none;
+	position: absolute;
+}
+.one{
+	top:17%;
+	left: 110px;
+}
+.two{
+	top: 50px;
+	left:520px; 
+}
+.three{
+	top:285px;
+	left: 870px;
+}
